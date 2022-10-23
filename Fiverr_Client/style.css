@@ -1,0 +1,34 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.format_output1 {
+    background-color: rgb(55, 55, 240);
+    color: white;
+    margin-top: 1%;
+    padding: 1%;
+    height: 10vh;
+    text-align: center;
+    font-size: larger;
+    font-weight: 650;
+    display: none;
+}
+
+
+.format_output2 {
+    border: 2px black dotted;
+    margin-top: 1%;
+    padding: 1%;
+    height: 10vh;
+    text-align: center;
+    font-size: larger;
+    font-weight: 650;
+    display: none;
+
+}
+
+.btn {
+    font-size: large !important;
+    font-weight: 600 !important;
+    margin: 2%;
+}
